@@ -1,6 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
 <a name="readme-top"></a>
 
 <!-- Table of Contents -->
